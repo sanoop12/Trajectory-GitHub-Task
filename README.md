@@ -60,6 +60,9 @@ For links and Images the text/alt-text goes inside the square brackets and link 
 ``` 
 💡 PS: If you wanna take it a step further, try adding your image to your markdown file by adding it to the images folder and use the above mentioned syntax to display the image
 ```
+```
+For the image url use : https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/<YOUR_FILE_NAME>
+```
 
 **Step 10:** Now get back to your terminal, make sure your inside the repository folder and commit and push the new changes to your own forked repository
 
@@ -84,7 +87,7 @@ Clearly git is a vast and complex topic and cannot really be covered in-depth in
 If you prefer
 - A hands-on and interactive tutorial [click here](https://gitimmersion.com)
 - A more in-depth look into the working of git [click here](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
-- A video tutorial [click here](https://youtu.be/RGOj5yH7evk)
+- A video tutorial [click here](https://youtu.be/HuKskPmxhy8)
 - Or maybe a quick and crisp cheatsheet [click here](https://betterprogramming.pub/basic-git-github-cheat-sheet-fa020831cb35)
 
 
