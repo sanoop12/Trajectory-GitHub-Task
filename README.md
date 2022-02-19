@@ -75,7 +75,7 @@ Click on pull request and follow along to create a pull request to this repo.
 <br>
 
 ## What next?
-If everything goes fine, we will review and approve your pull request and once accepted, Voila🎉 you just got your first pull request merged. Also check this out 👉 [click me](), you should be able to see yourself among the other tinkerers
+If everything goes fine, we will review and approve your pull request and once accepted, Voila🎉 you just got your first pull request merged. Also check this out 👉 [click me](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/), you should be able to see yourself among the other tinkerers
 <br>
 
 ## Resources
