@@ -1,6 +1,6 @@
 # John Doe
 
-<img src="https://github.com/aravinds-arv/git-and-github-intro-task/blob/main/images/hecker.jpg?raw=true">
+<img src="https://github.com/Tinkerhub-NSSCE/git-and-github-intro-task/blob/main/images/hecker.jpg?raw=true">
 
 Hi there, I am John Doe 🙋‍♂️
 
