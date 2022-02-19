@@ -1,6 +1,6 @@
 # John Doe
 
-<img src="https://github.com/Tinkerhub-NSSCE/git-and-github-intro-task/blob/main/images/hecker.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/hecker.jpg">
 
 Hi there, I am John Doe 🙋‍♂️
 
