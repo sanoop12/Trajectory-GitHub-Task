@@ -3,6 +3,10 @@
 Hey fellow tinkerers,
 The two day session on Git and Github was indeed a blast⚡.. we learned a lotta things which includes but not limited to, navigating the file system using the terminal, tracking changes in your codebase using git, creating a personal github account and using it collborate with remote developers. Now is the time to put your knowledge to the test!
 
+_The final result:_ _[click me](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/)_
+
+Follow the instructions below to get your name featured on the website😌
+
 ## Instructions
 
 **Step 1:** Create a Github account if you haven't already, head to [Sign Up](https://github.com/signup)
@@ -56,6 +60,8 @@ For Bold, Italics and Code just wrap your text with the right characters
 For links and Images the text/alt-text goes inside the square brackets and link inside the the braces
 [Link_Name](url) and ![Image_alt_text](src)
 ```
+You can do a lot more with markdown, [click here](https://www.markdownguide.org/cheat-sheet) to learn some more _markdown magic_ 🪄
+
 **Step 9:** Now simply write down a few lines about yourself in the new file, tell us who you are in the most creative way possible
 ``` 
 💡 PS: If you wanna take it a step further, try adding your image to your markdown file by adding it to the images folder and use the above mentioned syntax to display the image
@@ -74,7 +80,7 @@ For the image url use : https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-an
 ```
 This branch is X commits ahead of Tinkerhub-NSSCE:main Compare and Pull request
 ```
-Click on pull request and follow along to create a pull request to this repo.
+Click on the `compare and pull request` button, add an appropriate title and decription and finally click `create pull request`
 <br>
 
 ## What next?
@@ -82,7 +88,7 @@ If everything goes fine, we will review and approve your pull request and once a
 <br>
 
 ## Resources
-Clearly git is a vast and complex topic and cannot really be covered in-depth in two hours. But then we have found some amazing resources which you might find useful to get started and explore further about git and github
+Clearly git is a vast and complex topic and cannot really be covered in-depth in a few hours. But then we have found some amazing resources which you might find useful to get started and explore further about git and github
 
 If you prefer
 - A hands-on and interactive tutorial [click here](https://gitimmersion.com)
@@ -92,4 +98,4 @@ If you prefer
 
 
 ## Need more help?
-Feel free to post your query in our whatsapp group for the git and github session✨
+Feel free to post any of your queries in our whatsapp group for the git and github session✨
