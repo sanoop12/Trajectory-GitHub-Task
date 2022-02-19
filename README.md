@@ -50,7 +50,7 @@ For headers with varied sizes just vary the number of #
 1. And numbered
 2. Lists just start with a number
 
-For Bold, Italics and Code just wrap your text with the right charecters
+For Bold, Italics and Code just wrap your text with the right characters
 **Bold** and _Italic_ and `Code` text
 
 For links and Images the text/alt-text goes inside the square brackets and link inside the the braces
