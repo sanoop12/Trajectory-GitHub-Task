@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/Vinil.jpeg">
+<img width="400" src="https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/Vinil.jpeg">
 
 Helloo...I am Vinil NAir
 
