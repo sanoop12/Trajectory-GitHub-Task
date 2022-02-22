@@ -6,3 +6,4 @@
 4. [Sreejesh S](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/tinkerers/Sreejesh.html)
 5. [Tanya Sanjeev](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/tinkerers/TanyaSanjeevNair.html)
 6. [Nimia Das](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/tinkerers/nimia.html)
+7. [Jane Doe](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/tinkerers/Jane_Doe.html)
