@@ -1,6 +1,6 @@
 # Abhishek V
 
-<img src="https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/abhishek_v.jpg">
+<img width="400" src="https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/abhishek_v.jpg">
 
 Hello.. I am _**Abhishek V**_ from Kozhikode.
 Currently pursuing Btech in Electronics and Communication Engineering(20-24) from NSSCE.
