@@ -1,6 +1,6 @@
 # ARJUN E
 
-![MarineGEO circle logo](/Trajectory-GitHub-Task/images/arjun.jpg "MarineGEO logo") 
+![arjun](/Trajectory-GitHub-Task/images/arjun.jpg ) 
 
 *Hi there*, I am Arjun 🙋‍♂️
 
