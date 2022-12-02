@@ -1,6 +1,7 @@
 # ARJUN E
 
-![arjun](/Trajectory-GitHub-Task/images/arjun.jpg ) 
+![arjun](../images/arjun.jpg) 
+<img src="https://raw.githubusercontent.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/main/images/arjun.jpg">
 
 *Hi there*, I am Arjun 🙋‍♂️
 
