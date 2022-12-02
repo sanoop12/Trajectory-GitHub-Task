@@ -14,7 +14,7 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 theme: jekyll-theme-hacker
-title: tinkerers-nssce
+title: Trajectory
 description: Open a pull request in our repository to add your name to the list of tinkerers
 
 nav:
