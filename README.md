@@ -1,9 +1,8 @@
-# Git and Github Session - Task 2
+# Trajectory | Git & GitHub Task
 
-Hey fellow tinkerers,
-The two day session on Git and Github was indeed a blast⚡.. we learned a lotta things which includes but not limited to, navigating the file system using the terminal, tracking changes in your codebase using git, creating a personal github account and using it collborate with remote developers. Now is the time to put your knowledge to the test!
+The Git and Github session was indeed a blast⚡.. we learned a lotta things which includes but not limited to - installing and configuring git in your system, tracking changes in your codebase using git, creating a personal github account and using it collborate with remote developers. Now is the time to put your knowledge to the test!
 
-_The final result:_ _[click me](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/)_
+_The final result:_ _[click me](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/)_
 
 Follow the instructions below to get your name featured on the website😌
 
@@ -67,7 +66,8 @@ You can do a lot more with markdown, [click here](https://www.markdownguide.org/
 💡 PS: If you wanna take it a step further, try adding your image to your markdown file by adding it to the images folder and use the above mentioned syntax to display the image
 ```
 ```
-For the image url use : https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-and-github-session-task-2/main/images/<YOUR_FILE_NAME>
+For the image url use this link, replace the placeholder with your file name 👇
+https://raw.githubusercontent.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/main/images/<YOUR_FILE_NAME>
 ```
 
 **Step 10:** Now get back to your terminal, make sure your inside the repository folder and commit and push the new changes to your own forked repository
@@ -78,17 +78,17 @@ For the image url use : https://raw.githubusercontent.com/Tinkerhub-NSSCE/git-an
 
 **Step 11:** Head to your github forked repository. You must see a message saying..
 ```
-This branch is X commits ahead of Tinkerhub-NSSCE:main Compare and Pull request
+This branch is X commits ahead of Trajectory-Bootcamp:main Contribute
 ```
-Click on the `compare and pull request` button, add an appropriate title and decription and finally click `create pull request`
+Click on `Contribute` > `Open pull request`, add an appropriate title and decription and finally click `Create pull request`
 <br>
 
 ## What next?
-If everything goes fine, we will review and approve your pull request and once accepted, Voila🎉 you just got your first pull request merged. Also check this out 👉 [click me](https://tinkerhub-nssce.github.io/git-and-github-session-task-2/), you should be able to see yourself among the other tinkerers
+If everything goes fine, we will review and approve your pull request and once accepted, Voila🎉 you just got your first pull request merged. Also check this out 👉 [click me](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/), you should be able to see yourself alongside the other tinkerers
 <br>
 
 ## Resources
-Clearly git is a vast and complex topic and cannot really be covered in-depth in a few hours. But then we have found some amazing resources which you might find useful to get started and explore further about git and github
+Clearly git is a vast and complex topic and cannot really be covered in-depth in a few hours. But then we've found some amazing resources which you might find useful to get started and explore further about git and github
 
 If you prefer
 - A hands-on and interactive tutorial [click here](https://gitimmersion.com)
@@ -98,4 +98,4 @@ If you prefer
 
 
 ## Need more help?
-Feel free to post any of your queries in our whatsapp group for the git and github session✨
+Feel free to post any of your queries in our official whatsapp group for Trajectory ✨
