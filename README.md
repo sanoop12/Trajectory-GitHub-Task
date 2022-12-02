@@ -4,7 +4,7 @@ The Git and Github session was indeed a blast⚡.. we learned a lotta things whi
 
 _The final result:_ _[click me](https://trajectory-bootcamp.github.io/Trajectory-GitHub-Task/)_
 
-Follow the instructions below to get your name featured on the website😌
+Follow the instructions below to get your name featured on the website😎
 
 ## Instructions
 
