@@ -1,6 +1,6 @@
 # ARJUN E
 
-<img src="https://raw.githubusercontent.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/main/images/arjun.jpg">
+![MarineGEO circle logo](/Trajectory-GitHub-Task/images/arjun.jpg "MarineGEO logo") 
 
 *Hi there*, I am Arjun 🙋‍♂️
 
